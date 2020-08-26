@@ -28,6 +28,7 @@ I am Senior Data Scientist and Machine Learning Engineer with principal interesi
 - Unsupervised Learning
 - Anomaly Detection
 - Web Scraping 
+- Churn modeling
 
 
 # Deep Learning
@@ -35,6 +36,14 @@ I am Senior Data Scientist and Machine Learning Engineer with principal interesi
 - Convolutional Neuran Network
 - Artificial Neuronal Network
 - Facial Recognition
+
+# Business Intelligence
+- Financial Modeling
+- Dashboards for decision making 
+- Marketing Analytics
+- Digital Marketing
+- ROI
+- Pricing 
 
 ```
 You can find some project in my github or my [blog](www.danieljimenezm.com)
