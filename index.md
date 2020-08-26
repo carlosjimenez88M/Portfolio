@@ -67,6 +67,7 @@ You can find some project in my github or my [blog](www.danieljimenezm.com)
 
 * [InferML](https://github.com/carlosjimenez88M/Infer_WithR): R Package in development,combines strong inferential statistics and mathematical modeling tools to generate optimal processing models
 
+* [Undatascientistdice](www.danieljimenezm.com): Personal Webite where I develop Machine Learning Models and I write about different topics of data science and statistics.
 ### Contactme
 
 Mail: danieljimenez88m@gmail.com
