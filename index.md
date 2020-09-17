@@ -1,6 +1,6 @@
 ## Welcome to My Portfolio
 
-I am Senior Data Scientist and Machine Learning Engineer with principal interest in: Applied Statistic, Machine Learning Modeling , Data Analysis , Data Bases, Bayesian Analysis and Data Visualization.
+I am Senior Data Scientist and Machine Learning Engineer with principal interest in: Applied Statistic, Machine Learning Modeling , Data Analysis , BBDD, Bayesian Analysis and Data Visualization.
 
 ### Principal Interests
 
