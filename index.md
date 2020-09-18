@@ -54,6 +54,7 @@ You can find some project in my github or my [blog](www.danieljimenezm.com)
 * Python
 * SQL
 * Docker
+* Looker
 * Jenkins
 * Shiny
 * Flask
