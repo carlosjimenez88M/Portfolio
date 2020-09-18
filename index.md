@@ -72,7 +72,7 @@ You can find some project in my github or my [blog](www.danieljimenezm.com)
 
 ## Personal Projects 
 
-* [Machine - Econometrics](https://github.com/carlosjimenez88M/Covid_econometrics) With [Carlos Ospino, PhD](https://www.linkedin.com/in/cospino/): This Framework It is the combination between economic and ML techniques in which we try to develop statistical inference and supervised analysis applications with Big Data.
+* [Machine - Econometrics](https://github.com/carlosjimenez88M/Covid_econometrics) : This Framework It is the combination between economic and ML techniques in which we try to develop statistical inference and supervised analysis applications with Big Data.
 
 * [InferML](https://github.com/carlosjimenez88M/Infer_WithR): R Package in development,combines strong inferential statistics and mathematical modeling tools to generate optimal processing models
 
