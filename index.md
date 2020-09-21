@@ -35,7 +35,7 @@ I am Senior Data Scientist and Machine Learning Engineer with principal interest
 - Speech Recognition
 - Convolutional Neuran Network
 - Artificial Neuronal Network
-- Facial Recognition
+- Face Recognition
 
 # Business Intelligence
 - Financial Modeling
